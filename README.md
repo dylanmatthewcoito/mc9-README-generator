@@ -1,8 +1,11 @@
 
-# Test Readme Generator
+# Module 9 Challenge: Node.js Professional README.md Generator
+
+## This README.md was created with the code from this repository.*
+Light editing and spelling corrections were made after the fact.
 
 ## Description
-This is a test
+This project is a useful tool for any developer. Using Node.js and inquierer to generate a professional README.md file for your repositories.
 
 ## Table of Contents
 - [Installation](#installation)
@@ -13,19 +16,19 @@ This is a test
 - [Questions](#questions)
 
 ## Installation
-Run npm i to initialize inquierer then run node index.js
+Clone this repository to your local machine and follow instructions layed out under usage.
 
 ## Usage
-For Professional Redme generation
+To use this script, make sure you have the inquirer package installed (npm install inquirer), then run the script using node index.js. It will prompt you with a series of questions, and based on your answers, it will generate a professional README.md file in the same directory.
 
 ## License
-This project is licensed under the None license.
+This project is licensed under the MIT license.
 
 ## Contributing
-None
+Feel free to fork this repository for your own development.
 
 ## Tests
-None
+No tests at this time.
 
 ## Questions
 If you have any questions, please feel free to reach out:
