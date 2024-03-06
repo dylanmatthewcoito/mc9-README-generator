@@ -1,26 +1,33 @@
-# Module Challenge 9: Node.js Professional README Generator
 
-## Video Walkthrough Link 
-
-
+# Test Readme Generator
 
 ## Description
+This is a test
 
-here...
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
 
 ## Installation
-
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+Run npm i to initialize inquierer then run node index.js
 
 ## Usage
+For Professional Redme generation
 
-To use this script, make sure you have the inquirer package installed (npm install inquirer), then run the script 
-using node index.js. It will prompt you with a series of questions, and based on your answers, it will generate a professional README.md file in the same directory.
+## License
+This project is licensed under the None license.
 
+## Contributing
+None
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+## Tests
+None
 
-
-    
+## Questions
+If you have any questions, please feel free to reach out:
+- GitHub: [dylanmatthewcoito](https://github.com/dylanmatthewcoito)
+- Email: dylanmatthewcoito@gmail.com
